@@ -1,7 +1,4 @@
 # clojure4
 
-A Clojure app to ... well, that part is up to you.
+Solutiuons for 4clojure
 
-## Usage
-
-FIXME
